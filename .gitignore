@@ -1,0 +1,19 @@
+# Minimal .gitignore - allowing most files
+# Only excluding OS and IDE specific files
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files (optional - remove if you want these too)
+*.swp
+*.swo
+*~
+
+# Logs (optional - remove if you want these too)
+*.log
+
+# Python cache (these will be regenerated)
+__pycache__/
+*.pyc
